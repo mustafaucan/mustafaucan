@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CRM Project**
 
-- 🌱 I’m currently learning **Java and Angular**
+- 🌱 I’m currently learning **Java, React and NextJs **
 
 - 📫 How to reach me **ucan.mu@outlook.com**
 
