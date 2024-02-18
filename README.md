@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaucan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaucan" /> </p>
 
-- 🔭 I’m currently working on **CRM Project**
-
-- 🌱 I’m currently learning **React, NextJs and Blazor**
-
 - 📫 How to reach me **ucan.mu@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
